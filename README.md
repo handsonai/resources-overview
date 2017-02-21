@@ -18,3 +18,6 @@ Deep Learning: https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ
 Neural Network: https://www.youtube.com/watch?v=AyzOUbkUf3M
 
 # Websites
+V2_ website: http://v2.nl/events/hands-on-ai-kick-off
+
+Meetup page: https://www.meetup.com/Unstable-Media-Meetup-Rotterdam/
