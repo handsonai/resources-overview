@@ -1,5 +1,7 @@
 # resources-overview
-Overview of resources on AI and related topics
+Overview of resources on AI and related topics.
+
+Check the Slack: https://handsonai.slack.com/
 
 # Topics from the meetup
 
