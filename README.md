@@ -5,6 +5,11 @@ Check the Slack: https://handsonai.slack.com/
 
 # Topics from the meetup
 
+# Possible presentations
+
+- Introduction to Natural Computing (by Johan Groenen)
+- Introduction to Artificial Intelligence (by Johan Groenen)
+
 # Online courses
 https://www.udacity.com/course/intro-to-machine-learning--ud120
 
