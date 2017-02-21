@@ -1,6 +1,8 @@
 # resources-overview
 Overview of resources on AI and related topics
 
+# Topics from the meetup
+
 # Online courses
 https://www.udacity.com/course/intro-to-machine-learning--ud120
 
