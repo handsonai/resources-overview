@@ -3,6 +3,11 @@ Overview of resources on AI and related topics.
 
 Check the Slack: https://handsonai.slack.com/
 
+# Mentioned in Slack
+Machine Learning for Artists Github: https://github.com/ml4a
+
+Generating Kittens: http://affinelayer.com/pixsrv/index.html
+
 # Topics from the meetup
 
 # Possible presentations
