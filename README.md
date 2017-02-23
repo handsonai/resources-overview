@@ -71,3 +71,55 @@ Neural Network: https://www.youtube.com/watch?v=AyzOUbkUf3M
 V2_ website: http://v2.nl/events/hands-on-ai-kick-off
 
 Meetup page: https://www.meetup.com/Unstable-Media-Meetup-Rotterdam/
+
+# Alex Falks notes
+
+## Creative applications
+- Horror story bot
+- Improv music
+- AI "jamming"
+- Chat/text robots
+- AI playing games
+- Improving "single player mode"
+## Ethical implications
+- Ethics
+- Privacy & Transparency
+- Data collection
+- AI Rebels
+- We don't know what we don't know
+## AI categories
+- Unsupervised machine learning
+- Supervised machine learning
+- Euristics
+- Swarm Algoritm
+- Semantic Toolboxes
+- Expert systems
+- Rule based systems
+- Robotics
+## Social applications
+- AI psychology
+- Medical data analysis
+- Neural feedback
+- Handicap applications (AI for blind people)
+- City oriented bots 
+## Human/Computer Integration
+- AI/Human Synergy
+- Thought provoking bots
+- Brain/computer Interface
+- Cyborgs
+##  AI Community
+- AI History
+- Discourse group
+- Collectively owned AI resource
+- Talent development
+- Open source collection
+- Shared data sets
+- Skill exchange
+## Imagery
+- Pattern recognition
+- Image generation
+- recognizing chairs
+## Education
+- Where to look/start?
+- Low threshold
+- Making machine learning fun!
