@@ -5,7 +5,7 @@ Overview of resources on AI and related topics.
 - Show & Tell
 - World Café (table discussions)
 
-Check the Slack: https://handsonai.slack.com/
+Check the Slack: https://handsonai.slack.com/, ask Johan or Jan for an invite.
 
 # Mentioned in Slack
 Machine Learning for Artists Github: https://github.com/ml4a
