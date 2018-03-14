@@ -12,8 +12,10 @@ is a little more involved than the CPU alternative, so you may want to start wit
 this, like most nvidia cards. To my knowledge, GPU support is not available on macOS. (But correct me if I'm wrong)
 
 ### Linux
+...todo...
 
 ### Mac
+...todo...
 
 ### Windows
 For Windows, Anaconda is a convenient way to install Python, Tensorflow and many other Python libraries. As stated on the 
