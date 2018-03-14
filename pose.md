@@ -9,13 +9,15 @@ In addition, *Keras* is a relatively easy to use higher-level library that works
 
 Installing Tensorflow with *GPU* support is not strictly necessary, but will greatly improve learning and inference speed. The installation 
 is a little more involved than the CPU alternative, so you may want to start with that. You do need a graphic card that supports CUDA for 
-this, like most nvidia cards. To my knowledge, GPU support is not available on macOS. (But correct me if I'm wrong)
+this, like most nvidia cards. To my knowledge, GPU support is not available on macOS. (But correct me if I'm wrong) (JanM: there are ways...)
 
 ### Linux
 ...todo...
 
 ### Mac
-...todo...
+The procedure described on the [Tensorflow macOS install page](https://www.tensorflow.org/install/install_mac) is pretty straightforward, the virtualenv method works fine.
+
+GPU support is difficult, see [this guide](https://byai.io/howto-tensorflow-1-6-on-mac-with-gpu-acceleration/). Also it is rather pointless because Tensorflow requires CUDA which has no support on factory MacBooks, because no NVidea GPUs.
 
 ### Windows
 For Windows, Anaconda is a convenient way to install Python, Tensorflow and many other Python libraries. As stated on the 
