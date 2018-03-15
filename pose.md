@@ -36,6 +36,19 @@ Clone or download the repository, then run
 ```
 $ python src/run_webcam.py --model=mobilenet_thin --resolution=432x368 --camera=0
 ```
+##### macOS install
+Depending on what you currently have installed, the install in the readme of tf-pose-estimation might not work rightaway.
+I had to edit requirements.txt and remove the lines for ast and dill (it still seems to work afterwards).
+openCV is needed, I already had it installed so I don't know what is required exactly.
+```
+brew install opencv
+```
+To get the webcam demo running (live video input), I had to install ffmpeg with x265 support, in my case that meant:
+```
+brew reinstall ffmpeg --with-x265
+```
+To get the image-file demo running (run.py), I got error from matplotlib about Python needing to be installed as a Framework, but [there is always StackOverflow](https://stackoverflow.com/a/21789908/403991).
+
 
 #### Openpose
 To quickly get started on Windows you can download the [binaries](https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases) for the [openpose project](https://github.com/CMU-Perceptual-Computing-Lab/openpose). These allow you to use their openpose system with a webcam without having to install anything else (they come with a .bat file to download the needed models). 
