@@ -35,4 +35,6 @@ Clone or download the repository, then run
 ```
 $ python src/run_webcam.py --model=mobilenet_thin --resolution=432x368 --camera=0
 ```
-from the base folder.
+
+### Openpose ###
+To quickly get started on Windows you can download the [binaries](https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases) for the [openpose project](https://github.com/CMU-Perceptual-Computing-Lab/openpose). These allow you to use their openpose system with a webcam without having to install anything else (they come with a .bat file to download the needed models). 
