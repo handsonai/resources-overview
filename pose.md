@@ -31,11 +31,13 @@ Then follow the guide on [https://www.tensorflow.org/install/install_windows](ht
 ## Pose estimation models
 
 #### tf-pose-estimation
-A nice pretrained model to begin with is [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation).
+A nice pretrained model to begin with is [tf-pose-estimation](https://github.com/handsonai/tf-pose-estimation).
 Clone or download the repository, then run 
 ```
 $ python src/run_webcam.py --model=mobilenet_thin --resolution=432x368 --camera=0
 ```
+Note that the version linked here is adapted from the original, a run_vectors.py script was added by Fako Berkers that outputs json with the coordinates of the pose.
+
 ##### macOS install
 Depending on what you currently have installed, the install in the readme of tf-pose-estimation might not work rightaway.
 I had to edit requirements.txt and remove the lines for ast and dill (it still seems to work afterwards).
